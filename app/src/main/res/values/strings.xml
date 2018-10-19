@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="n0">0</string>
+    <string name="n10">10</string>
+    <string name="n100">100</string>
+    <string name="n1000">1000</string>
+    <string name="sum">+</string>
+    <string name="subtraction">-</string>
+    <string name="division">/</string>
+    <string name="multiplication">*</string>
+    <string name="potency2">X^2</string>
+    <string name="point">.</string>
+    <string name="potencyY">X^Y</string>
+    <string name="inverse">1/x</string>
+    <string name="changeOfSign">+/-</string>
+    <string name="clear">AC</string>
+
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+</resources>
